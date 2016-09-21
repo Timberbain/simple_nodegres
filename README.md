@@ -1,4 +1,4 @@
-# simple_web
+# Simple Nodegres
 A docker image for starting a simple web application with
 Node and postgres with postGIS extension
 
