@@ -1,0 +1,16 @@
+{
+  "name": "server",
+  "version": "1.0.0",
+  "description": "Just another server",
+  "main": "server.js",
+  "scripts": {
+    "start": "node js/server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jonas Brandvik",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.14.0",
+    "pg": "^6.1.0"
+  }
+}
