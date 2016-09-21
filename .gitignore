@@ -1,7 +1,6 @@
-db/
-web/client/node_modules/
-web/client/dist/
-web/server/node_modules/
+/db/
+node_modules/
+dist/
 
 ##############
 # Logfiles
